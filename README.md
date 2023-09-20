@@ -24,7 +24,12 @@
 - MySQL
 - SQLite
 - Git
+- GitLab
 - Microservices
+- gRPC
+- Nginx
+- Apache Kafka
+- Security over server SSL/TLS
 - Data structure
 - Algorithm
 - Docker
