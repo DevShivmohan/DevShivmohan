@@ -40,4 +40,3 @@
 </p>
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
-![3D Profile](assets/sunrise.jpeg?sanitize=true)
